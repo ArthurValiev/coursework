@@ -1,0 +1,226 @@
+﻿Построение начато 08.06.2013 23:03:38.
+     1>Проект "C:\Users\Артур\Desktop\KursFinal\KursFinalNew\KursFinalNew.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\KursFinalNew.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         E:\Program Files\Visual Studio 2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\stroka.h(82): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\stroka.h(95): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\stroka.h(141): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\stroka.h(142): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(110): см. объявление "strcat"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\stroka.h(155): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\stroka.h(156): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(110): см. объявление "strcat"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\stroka.h(167): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\stroka.h(168): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(110): см. объявление "strcat"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\stroka.h(218): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\identstr.h(125): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\identstr.h(175): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\identstr.h(188): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\identstr.h(195): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\identstr.h(196): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(110): см. объявление "strcat"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\identstr.h(330): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\identstr.h(337): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\identstr.h(343): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(166): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\stdio.h(371): см. объявление "sprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(170): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(180): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\stdio.h(371): см. объявление "sprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(184): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(194): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\stdio.h(371): см. объявление "sprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(198): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(208): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\stdio.h(371): см. объявление "sprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(212): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(222): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\stdio.h(371): см. объявление "sprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(226): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(236): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\stdio.h(371): см. объявление "sprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(240): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(250): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\stdio.h(371): см. объявление "sprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(254): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(264): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\stdio.h(371): см. объявление "sprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(268): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(278): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\stdio.h(371): см. объявление "sprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(282): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(292): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\stdio.h(371): см. объявление "sprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(296): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(307): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\stdio.h(371): см. объявление "sprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(311): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(321): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\stdio.h(371): см. объявление "sprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(325): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(335): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\stdio.h(371): см. объявление "sprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(339): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(349): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\stdio.h(371): см. объявление "sprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(353): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(363): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\stdio.h(371): см. объявление "sprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(367): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(377): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\stdio.h(371): см. объявление "sprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(381): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(391): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\stdio.h(371): см. объявление "sprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(395): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(405): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\stdio.h(371): см. объявление "sprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(409): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(419): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\stdio.h(371): см. объявление "sprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(423): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(433): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\stdio.h(371): см. объявление "sprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(437): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(447): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\stdio.h(371): см. объявление "sprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(451): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(461): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\stdio.h(371): см. объявление "sprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(465): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(475): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\stdio.h(371): см. объявление "sprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(479): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(489): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\stdio.h(371): см. объявление "sprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(493): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(503): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\stdio.h(371): см. объявление "sprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(507): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\desstr.h(521): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\visual studio 2010\vc\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\main.cpp(352): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 e:\program files\visual studio 2010\vc\include\swprintf.inl(85): см. объявление "swprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\main.cpp(353): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 e:\program files\visual studio 2010\vc\include\swprintf.inl(85): см. объявление "swprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\main.cpp(354): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 e:\program files\visual studio 2010\vc\include\swprintf.inl(85): см. объявление "swprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\main.cpp(355): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 e:\program files\visual studio 2010\vc\include\swprintf.inl(85): см. объявление "swprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\main.cpp(422): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 e:\program files\visual studio 2010\vc\include\swprintf.inl(85): см. объявление "swprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\main.cpp(428): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 e:\program files\visual studio 2010\vc\include\swprintf.inl(85): см. объявление "swprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\main.cpp(429): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 e:\program files\visual studio 2010\vc\include\swprintf.inl(85): см. объявление "swprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\main.cpp(430): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 e:\program files\visual studio 2010\vc\include\swprintf.inl(85): см. объявление "swprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\main.cpp(431): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 e:\program files\visual studio 2010\vc\include\swprintf.inl(85): см. объявление "swprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\main.cpp(439): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 e:\program files\visual studio 2010\vc\include\swprintf.inl(85): см. объявление "swprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\main.cpp(447): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 e:\program files\visual studio 2010\vc\include\swprintf.inl(85): см. объявление "swprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\main.cpp(507): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 e:\program files\visual studio 2010\vc\include\swprintf.inl(85): см. объявление "swprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\main.cpp(522): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 e:\program files\visual studio 2010\vc\include\swprintf.inl(85): см. объявление "swprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\main.cpp(529): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 e:\program files\visual studio 2010\vc\include\swprintf.inl(85): см. объявление "swprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\main.cpp(530): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 e:\program files\visual studio 2010\vc\include\swprintf.inl(85): см. объявление "swprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\main.cpp(531): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 e:\program files\visual studio 2010\vc\include\swprintf.inl(85): см. объявление "swprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\main.cpp(532): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 e:\program files\visual studio 2010\vc\include\swprintf.inl(85): см. объявление "swprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\main.cpp(563): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 e:\program files\visual studio 2010\vc\include\swprintf.inl(85): см. объявление "swprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\main.cpp(591): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 e:\program files\visual studio 2010\vc\include\swprintf.inl(85): см. объявление "swprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\main.cpp(592): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 e:\program files\visual studio 2010\vc\include\swprintf.inl(85): см. объявление "swprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\main.cpp(593): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 e:\program files\visual studio 2010\vc\include\swprintf.inl(85): см. объявление "swprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\main.cpp(594): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 e:\program files\visual studio 2010\vc\include\swprintf.inl(85): см. объявление "swprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\main.cpp(599): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 e:\program files\visual studio 2010\vc\include\swprintf.inl(85): см. объявление "swprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\main.cpp(632): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 e:\program files\visual studio 2010\vc\include\swprintf.inl(85): см. объявление "swprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\main.cpp(633): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 e:\program files\visual studio 2010\vc\include\swprintf.inl(85): см. объявление "swprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\main.cpp(641): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 e:\program files\visual studio 2010\vc\include\swprintf.inl(85): см. объявление "swprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\main.cpp(642): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 e:\program files\visual studio 2010\vc\include\swprintf.inl(85): см. объявление "swprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\main.cpp(678): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 e:\program files\visual studio 2010\vc\include\swprintf.inl(85): см. объявление "swprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\main.cpp(679): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 e:\program files\visual studio 2010\vc\include\swprintf.inl(85): см. объявление "swprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\main.cpp(687): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 e:\program files\visual studio 2010\vc\include\swprintf.inl(85): см. объявление "swprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\main.cpp(688): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 e:\program files\visual studio 2010\vc\include\swprintf.inl(85): см. объявление "swprintf"
+     1>c:\users\артур\desktop\kursfinal\kursfinalnew\main.cpp(802): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 e:\program files\visual studio 2010\vc\include\swprintf.inl(85): см. объявление "swprintf"
+       ManifestResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         E:\Program Files\Visual Studio 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Артур\Desktop\KursFinal\Debug\KursFinalNew.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\KursFinalNew.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Артур\Desktop\KursFinal\Debug\KursFinalNew.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Артур\Desktop\KursFinal\Debug\KursFinalNew.lib" /MACHINE:X86 Debug\KursFinalNew.exe.embed.manifest.res
+         Debug\main.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\KursFinalNew.exe.embed.manifest" /manifest Debug\KursFinalNew.exe.intermediate.manifest
+         Для всех выходных данных обновления не требуется.
+       LinkEmbedManifest:
+         Для всех выходных данных обновления не требуется.
+         KursFinalNew.vcxproj -> C:\Users\Артур\Desktop\KursFinal\Debug\KursFinalNew.exe
+       FinalizeBuildStatus:
+         Файл "Debug\KursFinalNew.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\KursFinalNew.lastbuildstate".
+     1>Построение проекта "C:\Users\Артур\Desktop\KursFinal\KursFinalNew\KursFinalNew.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:04.21
